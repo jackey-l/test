@@ -17,5 +17,7 @@ public class Demo {
         System.out.println("zhangsan插入了一行代码2020年10月31日00:36:45");
         System.out.println("王五插入了一行代码2020年10月31日00:38:52");
         System.out.println("王五插入了两行代码2020年10月31日00:39:18");
+        System.out.println("zhangsan又插入了一行代码时间");
+
     }
 }
