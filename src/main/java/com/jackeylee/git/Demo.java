@@ -13,7 +13,6 @@ public class Demo {
         System.out.println("改变了一下" + new Date());
         System.out.println("创建了dev分支");
         System.out.println("创建了feature分支，未来可以与master分支合并");
-        System.out.println("李四插入了1行代码2020年10月31日00:27:38");
-        System.out.println("李四插入了第2行代码2020年10月31日00:27:55");
+        System.out.println("张三插入了一行代码2020年10月31日00:23:51");
     }
 }
