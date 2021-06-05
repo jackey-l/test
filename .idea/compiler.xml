@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="GitPull" />
         <module name="GitTest" />
+        <module name="GitPull" />
+        <module name="test" />
+        <module name="git-test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
